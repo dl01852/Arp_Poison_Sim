@@ -1,0 +1,6 @@
+C:\Users\david-lewis\Desktop\Spring 2016\Data Comm\DataCommProject\DataCommProject\bin\Debug\DataCommProject.exe.config
+C:\Users\david-lewis\Desktop\Spring 2016\Data Comm\DataCommProject\DataCommProject\bin\Debug\DataCommProject.exe
+C:\Users\david-lewis\Desktop\Spring 2016\Data Comm\DataCommProject\DataCommProject\bin\Debug\DataCommProject.pdb
+C:\Users\david-lewis\Desktop\Spring 2016\Data Comm\DataCommProject\DataCommProject\obj\Debug\DataCommProject.csprojResolveAssemblyReference.cache
+C:\Users\david-lewis\Desktop\Spring 2016\Data Comm\DataCommProject\DataCommProject\obj\Debug\DataCommProject.exe
+C:\Users\david-lewis\Desktop\Spring 2016\Data Comm\DataCommProject\DataCommProject\obj\Debug\DataCommProject.pdb
