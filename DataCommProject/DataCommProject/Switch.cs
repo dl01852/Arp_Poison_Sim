@@ -11,7 +11,7 @@ namespace DataCommProject
     class Switch
     {
         private readonly List<Client> _clientsConnected;
-        private Router GateWay;
+        public Router GateWay { get; }
 
         public Switch(Router GateWay)
         {
@@ -39,7 +39,7 @@ namespace DataCommProject
 
         public IPAddress getDefaultGateWay()
         {
-            return GateWay.GatewayAddress;
+            return GateWay.IpAddress;
         }
     }
 }

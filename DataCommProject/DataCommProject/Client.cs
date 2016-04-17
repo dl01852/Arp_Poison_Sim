@@ -7,11 +7,10 @@ using System.Threading.Tasks;
 
 namespace DataCommProject
 {
-    class Client : Iclientable
+    class Client : Networkable
     {
         public IPAddress IpAddress { get; set; }
         public IPAddress DefaultGateWay { get; set; }
-        public double SubnetMask { get; set; }
         public string MacAddress { get; set; }
         public Dictionary<IPAddress, string> ArpTable { get; set; } // each client has an ARP table  maps a Client to a macAddress
         private readonly Switch _switchConnected; // this is the switch the Client is connected to.
