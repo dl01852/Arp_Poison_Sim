@@ -16,6 +16,7 @@ namespace DataCommProject
             Client c1 = new Client(s1,"55:22:ff:22:ff:aa:");
             Client c2 = new Client(s1,"BB:21:52:cc:68:af");
             c1.ping(c2.IpAddress);
+            c2.ping(c1.IpAddress);
             Console.ReadLine();
         }
     }

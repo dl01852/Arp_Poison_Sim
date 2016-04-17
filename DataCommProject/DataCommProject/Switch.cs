@@ -31,5 +31,15 @@ namespace DataCommProject
             Thread.Sleep(5000);
             return _clientsConnected.FirstOrDefault(c => c.IpAddress.Equals(IPAddress.Parse(ipAddress)));
         }
+
+        public List<Client> GetAllClients()
+        {
+            return _clientsConnected;
+        }
+
+        public IPAddress getDefaultGateWay()
+        {
+            return GateWay.GatewayAddress;
+        }
     }
 }
