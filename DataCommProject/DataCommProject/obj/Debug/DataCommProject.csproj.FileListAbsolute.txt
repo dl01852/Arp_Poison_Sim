@@ -10,3 +10,6 @@ C:\Users\David\Desktop\Spring 2016\DataComm\Arp_Poison_Sim\DataCommProject\DataC
 C:\Users\David\Desktop\Spring 2016\DataComm\Arp_Poison_Sim\DataCommProject\DataCommProject\bin\Debug\DataCommProject.exe
 C:\Users\David\Desktop\Spring 2016\DataComm\Arp_Poison_Sim\DataCommProject\DataCommProject\bin\Debug\DataCommProject.pdb
 C:\Users\David\Desktop\Spring 2016\DataComm\Arp_Poison_Sim\DataCommProject\DataCommProject\obj\Debug\DataCommProject.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Spring 2016\DataComm\Arp_Poison_Sim\Arp_Poison_Sim\DataCommProject\DataCommProject\bin\Debug\DataCommProject.exe.config
+C:\Users\David\Desktop\Spring 2016\DataComm\Arp_Poison_Sim\Arp_Poison_Sim\DataCommProject\DataCommProject\obj\Debug\DataCommProject.exe
+C:\Users\David\Desktop\Spring 2016\DataComm\Arp_Poison_Sim\Arp_Poison_Sim\DataCommProject\DataCommProject\obj\Debug\DataCommProject.pdb
