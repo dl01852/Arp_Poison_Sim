@@ -26,7 +26,7 @@ namespace DataCommProject
 
         public Client BroadCast(string ipAddress)
         {
-            // LINQ statement to broadcast to all clients and return the IPaddress that matches with the broadcast.
+            // LINQ statement to broadcast to all clients and return the IPaddress that matches with the broadcast. 
             Console.WriteLine("Broadcasting {0}", "0xFFFFFFFF......"); 
             Thread.Sleep(5000);
             return _clientsConnected.FirstOrDefault(c => c.IpAddress.Equals(IPAddress.Parse(ipAddress)));
